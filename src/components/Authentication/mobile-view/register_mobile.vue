@@ -339,7 +339,7 @@
 <script setup>
 import { computed, onBeforeUnmount, onMounted, reactive, ref } from 'vue'
 import DesktopRegister from '../Desktop-view/register.vue'
-import officialBg from '../../../../../officil.jpg'
+import officialBg from '../../images/images-mobile-view/bg.png'
 import woodIcon from '../../images/header-section-icons/woodicon.png'
 import bottleCash from '../../images/header-section-icons/bottlecash.png'
 import meshDeco from '../../images/header-section-icons/meshdeco.png'

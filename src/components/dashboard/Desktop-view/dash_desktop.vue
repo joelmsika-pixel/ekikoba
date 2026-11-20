@@ -59,7 +59,7 @@
                   </button>
 
                   <button type="button" @click="activeView = 'mchezo'" :aria-current="activeView === 'mchezo' ? 'page' : undefined" :class="[isMenuOpen ? 'translate-x-0 opacity-100' : 'translate-x-[-8px] opacity-0', activeView === 'mchezo' ? 'bg-white/15 text-white' : '']" class="flex w-full cursor-pointer items-center gap-3 rounded-lg px-3 py-2.5 text-left text-white/80 transition-all duration-200 ease-out hover:bg-[#b8f4bf] hover:text-[#0b4d38] hover:shadow-[inset_0_0_0_1px_rgba(255,255,255,0.35)]">
-                    <img src="../../images/images-Desktop-view/people1.svg" alt="My Mchezo" class="h-5 w-5 object-contain" />
+                    <img src="../../images/images-Desktop-view/people56 (1).svg" alt="My Mchezo" class="h-5 w-5 object-contain" />
                     <span class="text-[0.78rem]">My Mchezo</span>
                   </button>
 
@@ -171,7 +171,7 @@
               <img src="../../images/images-Desktop-view/trans-home.svg" alt="Dashboard" class="h-5 w-5 object-contain" />
             </button>
             <button type="button" data-tooltip="My Mchezo" @click="activeView = 'mchezo'" aria-label="My Mchezo" :aria-current="activeView === 'mchezo' ? 'page' : undefined" :class="activeView === 'mchezo' ? 'bg-white/15' : ''" class="sidebar-icon-tooltip group relative flex h-10 w-full cursor-pointer items-center justify-center rounded-xl transition-all duration-200 hover:bg-white/20 hover:shadow-[inset_0_0_0_1px_rgba(255,255,255,0.12)]">
-              <img src="../../images/images-Desktop-view/people1.svg" alt="My Mchezo" class="h-5 w-5 object-contain" />
+              <img src="../../images/images-Desktop-view/people56 (1).svg" alt="My Mchezo" class="h-5 w-5 object-contain" />
             </button>
             <button type="button" data-tooltip="My Contribution" @click="activeView = 'contribution'" aria-label="My Contribution" :aria-current="activeView === 'contribution' ? 'page' : undefined" :class="activeView === 'contribution' ? 'bg-white/15' : ''" class="sidebar-icon-tooltip group relative flex h-10 w-full cursor-pointer items-center justify-center rounded-xl transition-all duration-200 hover:bg-white/20 hover:shadow-[inset_0_0_0_1px_rgba(255,255,255,0.12)]">
               <img src="../../images/images-Desktop-view/trans-cash.svg" alt="My Contribution" class="h-5 w-5 object-contain" />
